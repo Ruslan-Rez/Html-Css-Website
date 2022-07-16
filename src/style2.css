@@ -1,0 +1,15 @@
+.lm{
+    color: coral;
+}
+.ls{
+    color: burlywood;
+}
+.myImage {
+    float: left;
+    height: 512px;
+    width: 768px;
+
+}
+.heading {
+    font-family: Veranda;
+}
